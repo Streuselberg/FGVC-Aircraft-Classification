@@ -6,7 +6,7 @@ The goal of this repo is to demonstrate how to train a machine learning model an
 training on the
 Fine Grained Visual Classification Aircraft (herein FGVCA or FGVA) Dataset.
 
-![Demo Image](./readme_img.jpg)
+![Demo Image](./demo_image.png)
 
 # Dataset
 
